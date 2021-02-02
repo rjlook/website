@@ -44,8 +44,6 @@ I am an ISAT major and plan on graduating in 2023.
 
 -Travel to great places in and out of the country
 
-```markdown
-Syntax highlighted code block
 
 ### Fun Facts
 -I am 20 years old
@@ -55,7 +53,8 @@ Syntax highlighted code block
 -Originally from California.
 
 <img src="familia.jpg" width=350>
-     
+
+```markdown    
 #### Contact Information
 (760)-382-2882
 
