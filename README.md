@@ -6,18 +6,23 @@ Hello everyone, my name is Robert Look Jr. (RJ) and currently I am enrolled at J
 
 ## Things I like to do
 -Hangout with friends
+
 -Golf whenever I can
+
 -Travel to great places in and out of the country
 
 ### Fun Facts
 -I am 20 years old
+
 -I have 2 younger sisters and 2 cool parents
+
 -Originally from California.
 
 <img src="familia.jpg" width=200>
      
 #### Contact Information
 (760)-382-2882
+
 email-rjlook7@gmail.com
 
 
