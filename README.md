@@ -1,6 +1,8 @@
 ## Welcome to My Website
 
-Hello everyone, my name is Robert Look Jr. (RJ) and currently I am enrolled at James Madison University. I am an ISAT major and plan on graduating in 2023.
+Hello everyone, my name is Robert Look Jr.(RJ) and currently I am enrolled at James Madison University. 
+
+I am an ISAT major and plan on graduating in 2023.
 
 <img src="berto.jpg" width=350>
 
@@ -18,7 +20,7 @@ Hello everyone, my name is Robert Look Jr. (RJ) and currently I am enrolled at J
 
 -Originally from California.
 
-<img src="familia.jpg" width=200>
+<img src="familia.jpg" width=350>
      
 #### Contact Information
 (760)-382-2882
